@@ -1,1 +1,2 @@
-Here there !
+This is Pixelium's company profile
+[TBD]
