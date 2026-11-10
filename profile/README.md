@@ -1,7 +1,7 @@
-<a href="https://pixelium.tech"><picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <img src="assets/hero-light.svg" alt="Pixelium. Digital Excellence Engineered. AI-first digital engineering for clients worldwide." width="100%">
-</picture></a>
+</picture>
 
 <h3 align="center">AI-first digital engineering, built for clients worldwide.</h3>
 
